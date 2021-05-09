@@ -1,0 +1,77 @@
+#header{
+    display: grid;
+    grid-template-columns: 2fr 3fr;
+    background: black;
+    color: white;
+   }
+
+#image{
+    height: 100px;
+    width: 150px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+   }
+#underline{
+    width: 270px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+}
+h4{
+    margin-top: 10px;
+    letter-spacing: 4px;
+    font-size: 20px;
+    color: blanchedalmond;
+}
+h5{
+    letter-spacing: 3px;
+    font-size: 20px;
+    color: blanchedalmond;
+    margin-top: 20px;
+}
+#edu2{
+    background: #CDCDCF;
+    padding: 10px;
+   }
+   p{
+    text-align: start;
+   }
+#wrapper{
+    padding: 0px;
+    margin-top: 50px;
+   }
+#edu1{
+    margin-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 4fr;
+   }
+#head{
+    font-weight: bold;
+   }
+#left-margin{
+    margin-left: 10px;
+    font-weight: bold;
+   }
+#hi{
+    padding-left: 50px;
+}
+#ui{
+    display: grid;
+    grid-template-columns: 0.2fr 0.5fr;
+   }
+   .skills{
+    display: grid;
+    align-items: center;
+    grid-template-columns: 1fr 1fr;
+   }
+   #progress-bar{
+    background: #CDCDCF;
+    height: 10px;
+    margin-top: 5px;
+    width: 100px;
+   }
+   #progress{
+    background: black;
+    height: 10px;
+    width: 80px;
+   }
